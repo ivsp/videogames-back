@@ -17,7 +17,6 @@ services:
     env_file: .env
     environment:
       - MONGO_HOSTNAME=$MONGO_HOSTNAME
-      - MONGO_DB=$MONGO_DB
   mongo:
     image: mongo
     container_name: myapp-mongodb
