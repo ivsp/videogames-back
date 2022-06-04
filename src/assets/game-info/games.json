@@ -1,0 +1,78 @@
+{
+  "Data": [
+    {
+      "Plataforma": "Game Boy",
+      "Nombre": "3 Choume no Tama: Tama and Friends – 3 Choume Obake Panic!!",
+      "Desarollador": "Tom Create",
+      "Distribuidor": "B-AI",
+      "Fecha_primera_publicacion": "",
+      "Fecha_de_publicacion5": "August 5, 1994",
+      "Fecha_de_publicacion6": "Unreleased",
+      "Fecha_de_publicacion7": "Unreleased",
+      "Fecha_de_publicacion8": ""
+    },
+    {
+      "Plataforma": "Macintosh",
+      "Nombre": "A-10 Attack!",
+      "Desarollador": "Parsoft Interactive",
+      "Distribuidor": "Parsoft Interactive",
+      "Fecha_de_publicacion1": "1995",
+      "Genero": "Flight simulator",
+      "License": "Abandonware",
+      "Mac_OS_versions": "7.5–9.2.2"
+    },
+    {
+      "Plataforma": "Game Boy Color",
+      "Nombre": "Bionic Commando: Elite Forces",
+      "Desarollador": "Nintendo Software Technology",
+      "Distribuidor": "Nintendo",
+      "Fecha_primera_publicacion": "January 24, 2000 (NA, EU)",
+      "Fecha_de_publicacion5": "Unreleased",
+      "Fecha_de_publicacion6": "Yes",
+      "Fecha_de_publicacion7": "Yes",
+      "Modo_dual": "No",
+      "Modo_cartucho": "N/A",
+      "Tienda_nintendo": "Yes"
+    },
+    {
+      "Plataforma": "Neo-Geo",
+      "Nombre": "Andro Dunos",
+      "Desarollador": "Visco",
+      "Distribuidor": "SNK, Visco",
+      "Fecha_de_publicacion2": "15/06/1992",
+      "Fecha_de_publicacion3": "17/07/1992",
+      "Fecha_de_publicacion4": "Unreleased",
+      "Genero": "Shoot 'em up"
+    },
+    {
+      "Plataforma": "Nintendo DS",
+      "Nombre": "Batman: The Brave and The Bold: The Videogame",
+      "Desarollador": "WayForward Technologies",
+      "Distribuidor": "Warner Bros. Interactive Entertainment",
+      "Fecha_primera_publicacion": "September 7, 2010 (NA)",
+      "Fecha_de_publicacion5": "Unreleased",
+      "Fecha_de_publicacion6": "Yes",
+      "Fecha_de_publicacion7": "Yes",
+      "Fecha_de_publicacion8": "Yes"
+    },
+    {
+      "Plataforma": "Game Boy",
+      "Nombre": "Takahashi Meijin no Boken Jima II JP"
+    },
+    {
+      "Plataforma": "Game Boy Color",
+      "Nombre": "Meta Fight EX JP",
+      "Fecha_primera_publicacion": "September 24, 2000 (NA)"
+    },
+    {
+      "Plataforma": "Macintosh",
+      "Nombre": "Aargon Deluxe",
+      "Desarollador": "Twilight Games",
+      "Distribuidor": "Twilight Games",
+      "Fecha_de_publicacion1": "1999",
+      "Genero": "Puzzle, Fighting",
+      "License": "Commercial",
+      "Mac_OS_versions": "10.2"
+    }
+  ]
+}
