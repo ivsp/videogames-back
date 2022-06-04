@@ -35,7 +35,7 @@ export const registerCtrl = async (req, res) => {
       //ojo que el host es el de nuestra aplicación de react
       sendValidationEmail(
         req.body.email,
-        `${VALIDATION_URL}/validate?token=${token}`
+        `${VALIDATION_UR}/validate?token=${token}`
       );
       res.sendStatus(201);
     } else {
