@@ -5,7 +5,7 @@ import videogamesRouter from "./videogames/videogames.router.js";
 import authRouter from "./auth/auth.router.js";
 
 const app = express();
-const port = 4000;
+const port = process.env.PORT || 4000;
 
 app.use(cors());
 app.use(express.json());
